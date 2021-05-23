@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
+	name: "The EvoTree",
+	id: "The EvoTree1",
 	author: "nobody",
-	pointsName: "points",
+	pointsName: "DNA power",
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
